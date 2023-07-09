@@ -1,0 +1,19 @@
+{
+	"name": "integrated runtimetest",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait10",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-07-09T09:44:05Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

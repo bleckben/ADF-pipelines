@@ -1,0 +1,9 @@
+{
+	"name": "ADFDevben",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a825ba61-1660-4833-8a8b-7b737a429b0c",
+		"tenantId": "73640925-3480-4462-874f-66bd1ce6b747"
+	}
+}
