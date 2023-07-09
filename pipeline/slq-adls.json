@@ -14,7 +14,8 @@
 					}
 				],
 				"typeProperties": {
-					"waitTimeInSeconds": 1
+					"waitTimeInSeconds": 1,
+					"waittTimeInSeconds": 1
 				}
 			},
 			{
