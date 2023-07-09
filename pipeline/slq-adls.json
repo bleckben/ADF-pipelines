@@ -4,7 +4,7 @@
 		"description": "this is a slq-adls pipeline",
 		"activities": [
 			{
-				"name": "Wait1",
+				"name": "Wait2",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [
